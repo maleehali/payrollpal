@@ -1,4 +1,3 @@
-# third-assignment
 # 03 JavaScript: Employee Payroll Tracker
 
 ## Your Task
